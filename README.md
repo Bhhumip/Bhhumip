@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhhumip
 - 👀 I’m interested in programing languages.
-- 🌱 I’m currently learning .python..
+- 🌱 I’m currently learning .node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... bhumikapawar41@gmail.com
 
